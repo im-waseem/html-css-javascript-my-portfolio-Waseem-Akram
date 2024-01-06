@@ -6,7 +6,7 @@ Absolutely, let's tailor the description to match your identity as Waseem Akram,
 
 Welcome to my Full Stack Web Developer portfolio! 🌐 As Waseem Akram, I'm thrilled to present a collection of my projects and skills that showcase my journey in the world of web development. Through a fusion of HTML, CSS, and JavaScript, my portfolio stands as a testament to my passion for creating immersive and functional web experiences.
 
-🔗 **Portfolio Link:** [Explore My Portfolio](waseemakram.xyz)
+🔗 **Portfolio Link:** [Explore My Portfolio]([waseemakram.xyz](https://html-css-javascript-my-portfolio-waseem-akram.vercel.app/))
 
 📌 **Key Highlights:**
 - **Project Showcase:** Immerse yourself in an assortment of projects that highlight my proficiency in crafting robust and responsive web applications.
