@@ -21,11 +21,18 @@ No matter the device you're using - be it a desktop, tablet, or smartphone - my 
 
 Feel free to explore my portfolio, gather inspiration, and connect with me. Thank you for visiting and considering my journey as a full-stack web developer! 🙌
 
-About Page ![image](https://github.com/im-waseem/html-css-javascript-my-portfolio-Waseem-Akram/assets/127886814/3d91c5ec-c9bd-4b7a-8895-2b0698bdbbe1)
+About ![image](https://github.com/im-waseem/html-css-javascript-my-portfolio-Waseem-Akram/assets/127886814/e50b22f2-1d1d-42dd-8c14-e6d5042f6585)
+
 Portfolio Project ![image](https://github.com/im-waseem/html-css-javascript-my-portfolio-Waseem-Akram/assets/127886814/c894b4af-b88c-4cf6-b484-0fa898bb8200)
-Contact Page ![image](https://github.com/im-waseem/html-css-javascript-my-portfolio-Waseem-Akram/assets/127886814/2c6accfa-ab9c-45dc-89ce-fb91855d6652)
-Education Page ![image](https://github.com/im-waseem/html-css-javascript-my-portfolio-Waseem-Akram/assets/127886814/ced217db-31a0-41ed-bc4a-0786e8e42256)
-Skills Page ![image](https://github.com/im-waseem/html-css-javascript-my-portfolio-Waseem-Akram/assets/127886814/a5fc57a4-886b-4a36-bc98-9ee27e935c8a)
+
+Experience and Skills
+![image](https://github.com/im-waseem/html-css-javascript-my-portfolio-Waseem-Akram/assets/127886814/ecc3043a-24af-4e92-84a7-fde90bc6d5c2)
+
+Contact ![image](https://github.com/im-waseem/html-css-javascript-my-portfolio-Waseem-Akram/assets/127886814/eafbaa4a-c53c-4199-86ed-65442cece47f)
+Blog ![Uploading image.png…]()
+
+
+
 
 
 
